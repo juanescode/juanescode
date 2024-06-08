@@ -14,7 +14,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently am student 7th semester of systems engineering.
+- 🔭 I’m currently a computer science student.
   
 - 🌱 I’m currently learning TypeScript.
   
