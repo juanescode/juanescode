@@ -18,7 +18,7 @@
   
 - 🌱 I’m currently learning TypeScript.
   
-- 👯 I’m looking to collaborate on Proyectos.
+- 👯 I’m looking to collaborate on projects.
   
 - 💬 Ask me about Sql, JavaScript, Sql, Postgres, mongoDB, NodeJS, TypeScript and much more.
 
