@@ -71,8 +71,9 @@
     <td align="center">
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/></a></td>
-
-
+<td align="center">
+  <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/></a></td>
   </tr>
 </table>
 
