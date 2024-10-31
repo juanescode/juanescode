@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently a computer science student.
   
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning react native and nextjs.
   
 - 👯 I’m looking to collaborate on projects.
   
